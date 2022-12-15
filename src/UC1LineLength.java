@@ -20,6 +20,6 @@ public class UC1LineLength {
         System.out.println("Now let's calculate length of line 1" );
         double len ;
         len=Math.sqrt(Math.pow(x1,y1)+Math.pow(x1,y1)) ;
-        System.out.println("Length of line in cartesian plane is  "+len );
+        System.out.println("Length of line in cartesian system is  "+len );
     }
 }
