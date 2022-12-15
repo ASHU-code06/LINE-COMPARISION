@@ -19,7 +19,7 @@ public class UC1LineLength {
         System.out.println(" respectively");
         System.out.println("Now let's calculate length of line 1" );
         double len ;
-        len=Math.sqrt(Math.pow(x1,y1)+Math.pow(x1,y1)) ;
+        len=Math.sqrt(Math.pow(x1,y1)+Math.pow(x2,y2)) ;
         System.out.println("Length of line in cartesian system is  "+len );
     }
 }
